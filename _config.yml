@@ -1,0 +1,10 @@
+title: これってウチだけ？
+description: 「これってウチだけ？」の法務文書
+lang: ja
+
+# GitHub Pages に同梱されているテーマ。追加のインストールが要らない。
+theme: jekyll-theme-minimal
+
+# 下の2つを配信しない。リポジトリの説明であって、公開ページではない。
+exclude:
+  - README.md
