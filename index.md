@@ -5,6 +5,7 @@
 ## 法務文書
 
 - [プライバシーポリシー](privacy-policy.html)
+- [利用規約](terms-of-service.html)
 
 ## お問い合わせ
 
