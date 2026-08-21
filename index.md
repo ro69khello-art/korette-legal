@@ -9,4 +9,4 @@
 
 ## お問い合わせ
 
-hypha.mania@gmail.com
+contact@hyphamania.com
